@@ -1,8 +1,8 @@
 const { expect } = require('chai');
-const Game = require('../lib/game.js')
-const Block = require('../lib/block.js');
-const Snake = require('../lib/snake.js');
-const Target = require('../lib/target.js')
+const Game = require('../lib/Game.js')
+const Block = require('../lib/Block.js');
+const Snake = require('../lib/Snake.js');
+const Target = require('../lib/Target.js')
 
 describe('Block', () => {
 
